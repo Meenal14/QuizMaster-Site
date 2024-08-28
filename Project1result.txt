@@ -1,0 +1,5 @@
+meenal	33	aiml	4	5
+Anurag	8	aiml	4	3
+Masoom	32	aiml	4	1
+	11211616		0	0
+neeku	11	cse	4	10
